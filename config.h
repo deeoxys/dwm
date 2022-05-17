@@ -13,9 +13,9 @@ static const char col_gray2[]       = "#444444";
 static const char col_gray3[]       = "#bbbbbb";
 static const char col_gray4[]       = "#eeeeee";
 // main top bar colour
-// #bd93f9
+//  #BF4040
 // #f59542 mentaloutlaw
-static const char col_cyan[]        = "#BF4040";
+static const char col_cyan[]        = "#7585a6";
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
 	[SchemeNorm] = { col_gray3, col_gray1, col_gray2 },
